@@ -36,7 +36,7 @@ These techniques were used because it is directed to the accountant's device and
 
 ## Technologies 
 
-* [.NET core 4.8](https://en.wikipedia.org/wiki/.NET_Framework_version_history) Microsoft started development on the .NET Framework 
+* [.NET Framework](https://en.wikipedia.org/wiki/.NET_Framework_version_history) Each version of the .NET Framework contains the common language runtime (CLR), base class libraries, and other managed libraries. 
 
 * [ADO.NET](https://en.wikipedia.org/wiki/ADO.NET) is a data access technology from the Microsoft .NET Framework that provides communication between relational and non-relational systems through a common set of components
 
